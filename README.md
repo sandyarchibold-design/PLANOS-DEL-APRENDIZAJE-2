@@ -31,20 +31,25 @@
 - *Ejemplo en nuestro contexto:  Un docente que comparte una videoclase grabada por una plataforma como Zoom o YouTube, donde explica un tema y los estudiantes solo observan sin hacer preguntas en tiempo real.
 
 ### 🔄 Modelo Interactivo
-- *Representación en clases virtuales:  dfasdfasdf*  
-- *Ejemplo en nuestro contexto: ssss*  
+- *Representación en clases virtuales: Implica un proceso de comunicación bidireccional donde existe retroalimentación. El docente y los estudiantes intercambian ideas, preguntas y respuestas, favoreciendo una mayor comprensión.
+- *Ejemplo en nuestro contexto: Durante una clase en vivo por Google Meet, el docente explica un tema y luego abre un espacio para preguntas, utiliza el chat o activa los micrófonos para que los estudiantes participen y aclaren dudas.
 
 ### 🧠 Modelo Constructivista
-- *Representación en clases virtuales: asfasdf*  
-- *Ejemplo en nuestro contexto: asdfasdf*  
+- *Representación en clases virtuales: Se centra en el aprendizaje activo, donde el estudiante construye su conocimiento a partir de experiencias, interacción con otros y reflexión. El docente actúa como guía o facilitador.
+- *Ejemplo en nuestro contexto: El docente propone un proyecto colaborativo en plataformas como Classroom o foros virtuales, donde los estudiantes investigan, discuten en grupos, comparten ideas y elaboran conclusiones propias sobre un tema. 
 
 ---
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
-- 📱 ¿Qué medios utilizamos?  
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+- En el entorno virtual, tanto el docente como los estudiantes alternan continuamente estos roles. El docente suele ser el emisor principal al explicar contenidos, orientar actividades y dar instrucciones; sin embargo, también actúa como receptor cuando escucha dudas, opiniones o respuestas de los estudiantes. Por su parte, los estudiantes no solo reciben información, sino que también se convierten en emisores cuando participan, responden preguntas, exponen trabajos o interactúan en foros. Esto refleja una comunicación dinámica y bidireccional.
+  
+- 📱 ¿Qué medios utilizamos?
+- Se emplean diversos medios digitales que facilitan la comunicación, tales como plataformas de videoconferencia (como Zoom o Google Meet), entornos virtuales de aprendizaje como Google Classroom, aplicaciones de mensajería (por ejemplo, WhatsApp), correos electrónicos y foros virtuales. Además, se utilizan recursos como presentaciones, videos, audios y documentos compartidos que enriquecen la interacción.
+  
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?
+- Existen diversas barreras que pueden afectar la comunicación en entornos virtuales. Entre ellas destacan los problemas de conectividad a internet, fallas técnicas en dispositivos, falta de habilidades digitales, distracciones en el hogar, escasa participación de los estudiantes y la ausencia de comunicación no verbal (gestos, contacto visual), lo que puede dificultar la comprensión del mensaje. También influyen factores como la desmotivación o la sobrecarga de información.
 
 ---
 
