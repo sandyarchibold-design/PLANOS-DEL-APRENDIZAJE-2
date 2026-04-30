@@ -59,11 +59,11 @@
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 *Emisor*       |            |                                                          |                      |
-| 👂 *Receptor*     |            |                                                          |                      |
-| 🌐 *Canal*        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ *Ruido*        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 *Retroalimentación* |      | Cómo se completa el circuito                             |                      |
+| 🔊 *Emisor*       |  Docente / Estudiante          |      El docente explica contenidos, orienta y da instrucciones. El estudiante también puede emitir ideas, preguntas o exposiciones.                                                    |  👩‍🏫📢 / 🧑‍🎓💬                    |
+| 👂 *Receptor*     |   Estudiante / Docente         | El estudiante recibe la información, la interpreta y la procesa. El docente recibe dudas y respuestas.                                                         |   El estudiante recibe la información, la interpreta y la procesa. El docente recibe dudas y respuestas.                   |
+| 🌐 *Canal*        | Plataformas digitales           | Ej: Google Meet, Moodle, WhatsApp, correo                |  💻📱🌍                    |
+| ⚠️ *Ruido*        | Barreras de comunicación           | Ej: desconexión, distracción, mal diseño de contenidom mala conexión a internet, distracciones, fallas técnicas, falta de claridad en el mensaje, ruido ambiental   |  📶❌ 🔇 😵                    |
+| 🔁 *Retroalimentación* | Interacción continua     | Preguntas en vivo, participación en chat, tareas enviadas, comentarios del docente que permiten mejorar el aprendizaje                            |  🔄💬📩                    |
 
 ---
 
